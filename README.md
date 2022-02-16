@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with this application
+
+# Before we get started this application is live and hosted in this link https://gracious-shaw-33c009.netlify.app Go and check it out
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
