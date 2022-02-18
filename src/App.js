@@ -63,7 +63,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Magic Match</h1>
+      <h1 className="header">Magic Match</h1>
       <button onClick={() => suffleCards(cards)}>New Game</button>
       <div className="card-grid">
         {card.map((item) => {
@@ -78,7 +78,7 @@ const App = () => {
           );
         })}
       </div>
-      <p>Turns {turns}</p>
+      <p className="turn">Turns {turns}</p>
     </div>
   );
 };
